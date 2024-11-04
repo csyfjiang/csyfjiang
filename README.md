@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 </picture>
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/csyfjiang/count.svg) visitor, **Thank You!**🌟🌟🌟
+You are my ![Visitor Count](https://profile-counter.glitch.me/csyfjiang/count.svg) visitor, **Thank You!** 🌟🌟🌟
 
